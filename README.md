@@ -1,6 +1,6 @@
 # javascript-common
 
-javascript通用方法汇总
+javascript通用方法&工具汇总
 
 ## 方法
 
